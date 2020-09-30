@@ -1,0 +1,721 @@
+.top-sentence {
+  position: absolute;
+  left: 50px;
+  top: 150px;
+  width: 400px;
+  height: 382px;
+  font-family: Hind;
+  font-size: 55px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.18;
+  letter-spacing: 3.3px;
+  text-align: left;
+  color: #252525;
+}
+.top-sentence .text-style-1 {
+  font-weight: normal;
+}
+.Rounded-Rectangle-3 {
+  position: absolute;
+  left: 50px;
+  top: 500px;
+  width: 288px;
+  height: 53px;
+  background-image: linear-gradient(
+    to top,
+    #0e89c8,
+    #1a94d3,
+    #1a94d3,
+    #0875ae,
+    #0e89c8
+  );
+}
+.Rounded-Rectangle-Text {
+  text-transform: uppercase;
+  width: 265px;
+  height: 19px;
+  font-family: Hind;
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 3.28;
+  letter-spacing: 1.08px;
+  text-align: right;
+  color: #ffffff;
+}
+.content-image {
+  position: absolute;
+  right: 100px;
+  top: 170px;
+  width: 480px;
+  height: 400px;
+  object-fit: contain;
+}
+.Shape-3 {
+  position: absolute;
+  left: -300px;
+  top: 50px;
+  z-index: -10;
+  width: 1933px;
+  height: 1133px;
+  object-fit: contain;
+}
+.Jsme-distributoi {
+  text-transform: uppercase;
+  position: absolute;
+  left: 60px;
+  top: 680px;
+  width: 400px;
+  height: 32px;
+  font-family: Hind;
+  font-size: 23px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.71;
+  letter-spacing: 1.75px;
+  text-align: center;
+  color: #ffffff;
+}
+.toshiba {
+  position: absolute;
+  left: 120px;
+  top: 780px;
+  width: 180px;
+  height: 73px;
+  object-fit: contain;
+}
+.toshiba-content {
+  position: absolute;
+  left: 50px;
+  top: 890px;
+  width: 300px;
+  height: 50px;
+  font-family: Hind;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.47;
+  letter-spacing: 0.85px;
+  text-align: center;
+  color: #ffffff;
+}
+.toshiba-rounded-rect {
+  position: absolute;
+  left: 110px;
+  top: 1025px;
+  width: 180px;
+  height: 40px;
+  border-radius: 5px;
+  border: solid 2px #ffffff;
+}
+.Chci-vce-informac {
+  width: 180px;
+  height: 13px;
+  font-family: Hind;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.47;
+  letter-spacing: 0.85px;
+  text-align: center;
+  color: #ffffff;
+}
+.toshiba-line {
+  position: absolute;
+  left: 420px;
+  top: 800px;
+  width: 1px;
+  height: 314px;
+  border: solid 2px #ffffff;
+  background-color: #ffffff;
+}
+.hokkaido {
+  position: absolute;
+  left: 540px;
+  top: 780px;
+  width: 180px;
+  height: 73px;
+  object-fit: contain;
+}
+.hokkaido-content {
+  position: absolute;
+  left: 485px;
+  top: 890px;
+  width: 300px;
+  height: 50px;
+  font-family: Hind;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.47;
+  letter-spacing: 0.85px;
+  text-align: center;
+  color: #ffffff;
+}
+.hokkaido-rounded-rect {
+  position: absolute;
+  left: 540px;
+  top: 1035px;
+  width: 180px;
+  height: 40px;
+  border-radius: 5px;
+  border: solid 2px #ffffff;
+}
+.hokkaido-line {
+  position: absolute;
+  left: 850px;
+  top: 800px;
+  width: 1px;
+  height: 314px;
+  border: solid 2px #ffffff;
+  background-color: #ffffff;
+}
+.inventor {
+  position: absolute;
+  left: 970px;
+  top: 780px;
+  width: 180px;
+  height: 73px;
+  object-fit: contain;
+}
+.inventor-content {
+  position: absolute;
+  left: 930px;
+  top: 890px;
+  width: 300px;
+  height: 50px;
+  font-family: Hind;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.47;
+  letter-spacing: 0.85px;
+  text-align: center;
+  color: #ffffff;
+}
+.inventor-rounded-rect {
+  position: absolute;
+  left: 990px;
+  top: 1035px;
+  width: 180px;
+  height: 40px;
+  border-radius: 5px;
+  border: solid 2px #ffffff;
+}
+.KLIMAX-TEPLICE-sro-spolupracuje-s {
+  text-transform: uppercase;
+  position: absolute;
+  left: 60px;
+  top: 1267px;
+  width: 706px;
+  height: 24px;
+  font-family: Hind;
+  font-size: 22px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.6;
+  letter-spacing: 1.75px;
+  text-align: left;
+  color: #252525;
+}
+
+.rotujc-slider-s-logama {
+  text-transform: uppercase;
+  position: absolute;
+  right: 190px;
+  top: 1267px;
+  width: 240px;
+  height: 14px;
+  font-family: Hind;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.4;
+  letter-spacing: 0.75px;
+  text-align: left;
+  color: #ed1c24;
+}
+.OMVsvg {
+  position: absolute;
+  left: 80px;
+  top: 1383px;
+  width: 110px;
+  height: 119px;
+  object-fit: contain;
+}
+
+.Veolia-Logo-with-text {
+  position: absolute;
+  left: 360px;
+  top: 1413px;
+  width: 170px;
+  height: 50px;
+  object-fit: contain;
+}
+
+.e-logo {
+  position: absolute;
+  right: 490px;
+  top: 1383px;
+  width: 70px;
+  height: 113px;
+  object-fit: contain;
+}
+.bata {
+  position: absolute;
+  right: 80px;
+  top: 1413px;
+  width: 200px;
+  height: 61px;
+  object-fit: contain;
+}
+
+.rectangle-services {
+  position: relative;
+  left: 0px;
+  top: 1583px;
+  width: 1280px;
+  height: 493px;
+  background-color: #ebebeb;
+}
+.Poskytujeme-vm {
+  position: absolute;
+  left: 40px;
+  top: 80px;
+  width: 343px;
+  height: 31px;
+  font-family: Hind;
+  font-size: 28px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.6;
+  letter-spacing: 1.75px;
+  text-align: left;
+  color: #252525;
+}
+.content-grey {
+  position: absolute;
+  left: 40px;
+  top: 150px;
+  width: 505px;
+  height: 365px;
+  font-family: Hind;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.47;
+  letter-spacing: 0.85px;
+  text-align: left;
+  color: #252525;
+}
+.content-grey .text-style-1 {
+  color: #1a93d2;
+}
+.kosik {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+  width: 40px;
+  height: 65px;
+  object-fit: contain;
+}
+
+.Prodej-klimatizac {
+  position: absolute;
+  right: 420px;
+  top: 120px;
+  width: 107px;
+  height: 33px;
+  font-family: Hind;
+  font-size: 13px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.41;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #252525;
+}
+
+.kosik-line-horizontal {
+  position: absolute;
+  right: 370px;
+  top: 40px;
+  width: 0.1px;
+  height: 100px;
+  border: solid 2px #898989;
+  background-color: #898989;
+}
+
+.kosik-line-verticle {
+  position: absolute;
+  right: 400px;
+  top: 173px;
+  width: 140px;
+  height: 0.1px;
+  border: solid 2px #898989;
+  background-color: #898989;
+}
+.auto {
+  position: absolute;
+  right: 450px;
+  top: 200px;
+  width: 40px;
+  height: 65px;
+  object-fit: contain;
+}
+.servis-autoklimatizac {
+  position: absolute;
+  right: 400px;
+  top: 260px;
+  width: 130px;
+  height: 33px;
+  font-family: Hind;
+  font-size: 13px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.41;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #252525;
+}
+.auto-line-horizontal {
+  position: absolute;
+  right: 370px;
+  top: 200px;
+  width: 0.1px;
+  height: 100px;
+  border: solid 2px #898989;
+  background-color: #898989;
+}
+.auto-line-verticle {
+  position: absolute;
+  right: 400px;
+  top: 325px;
+  width: 140px;
+  height: 0.1px;
+  border: solid 2px #898989;
+  background-color: #898989;
+}
+.services {
+  position: absolute;
+  right: 450px;
+  top: 340px;
+  width: 40px;
+  height: 65px;
+  object-fit: contain;
+}
+.servis-vzduchotechniky {
+  position: absolute;
+  right: 400px;
+  top: 400px;
+  width: 140px;
+  height: 33px;
+  font-family: Hind;
+  font-size: 13px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.41;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #252525;
+}
+.services-line-horizontal {
+  position: absolute;
+  right: 370px;
+  top: 350px;
+  width: 0.1px;
+  height: 100px;
+  border: solid 2px #898989;
+  background-color: #898989;
+}
+
+.servis {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+  width: 40px;
+  height: 65px;
+  object-fit: contain;
+}
+
+.servisn-innost {
+  position: absolute;
+  right: 220px;
+  top: 120px;
+  width: 100px;
+  height: 33px;
+  font-family: Hind;
+  font-size: 13px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.41;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #252525;
+}
+
+.servis-line-verticle {
+  position: absolute;
+  right: 200px;
+  top: 173px;
+  width: 140px;
+  height: 0.1px;
+  border: solid 2px #898989;
+  background-color: #898989;
+}
+.mapa {
+  position: absolute;
+  right: 250px;
+  top: 200px;
+  width: 40px;
+  height: 65px;
+  object-fit: contain;
+}
+.dorazme-kamkoliv {
+  position: absolute;
+  right: 220px;
+  top: 260px;
+  width: 100px;
+  height: 33px;
+  font-family: Hind;
+  font-size: 13px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.41;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #252525;
+}
+.mapa-line-verticle {
+  position: absolute;
+  right: 200px;
+  top: 325px;
+  width: 140px;
+  height: 0.1px;
+  border: solid 2px #898989;
+  background-color: #898989;
+}
+.settings {
+  position: absolute;
+  right: 250px;
+  top: 340px;
+  width: 40px;
+  height: 65px;
+  object-fit: contain;
+}
+.Odborn-monte {
+  position: absolute;
+  right: 220px;
+  top: 400px;
+  width: 100px;
+  height: 33px;
+  font-family: Hind;
+  font-size: 13px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.41;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #252525;
+}
+.blue-rectangle {
+  position: absolute;
+  top: 2074px;
+  width: 100%;
+  height: 133px;
+  background-image: linear-gradient(
+    to top,
+    #0e89c8,
+    #1a94d3,
+    #1a94d3,
+    #0875ae,
+    #0e89c8
+  );
+}
+
+.rounded-rectangle-blue {
+  margin: auto;
+  margin-top: 40px;
+  width: 270px;
+  height: 53px;
+  border-radius: 4.2px;
+  background-image: linear-gradient(to top, #eff1f2, #ffffff, #ffffff);
+}
+
+.Nae-reference {
+  width: 245px;
+  height: 20px;
+  font-family: Hind;
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 3.28;
+  letter-spacing: 1.08px;
+  text-align: center;
+  color: #1a93d2;
+  text-transform: uppercase;
+}
+
+.Novinky {
+  position: absolute;
+  top: 2248px;
+  left: 30px;
+  width: 162px;
+  height: 24px;
+  font-family: Hind;
+  font-size: 35px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.6;
+  letter-spacing: 1.75px;
+  text-align: left;
+  color: #252525;
+}
+
+.Toshiba-uvd-na-trh-nov-model {
+  position: absolute;
+  top: 2320px;
+  left: 30px;
+  width: 479px;
+  height: 23px;
+  font-family: Hind;
+  font-size: 25px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.84;
+  letter-spacing: 1.25px;
+  text-align: left;
+  color: #1a93d2;
+}
+
+.novinky-content{
+  position: absolute;
+  top: 2350px;
+  left: 30px;
+  width: 600px;
+  height: 120px;
+  font-family: Hind;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.24;
+  letter-spacing: 0.85px;
+  text-align: left;
+  color: #252525;
+}
+
+.Vechny-novinky-rectangle {
+  position: absolute;
+  top: 2500px;
+  left: 410px;
+  width: 230px;
+  height: 43px;
+  border-radius: 5px;
+  border: solid 2px #1a93d2;
+}
+
+.Vechny-novinky {
+  width: 142px;
+  height: 16px;
+  font-family: Hind;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.47;
+  letter-spacing: 0.85px;
+  text-align: center;
+  color: #1a93d2;
+  margin: auto;
+  margin-top: 15px;
+}
+.ac-machines {
+  position: absolute;
+  top: 2250px;
+  right: 30px;
+  width: 499px;
+  height: 292px;
+  object-fit: contain;
+}
+
+.tel {
+  position: absolute;
+  top: 2580px;
+  left: 130px;
+  width: 60px;
+  height: 97px;
+  object-fit: contain;
+}
+.tel-num {
+  position: absolute;
+  top: 2620px;
+  left: 260px;
+  width: 260px;
+  height: 24px;
+  font-family: Hind;
+  font-size: 25px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.74;
+  letter-spacing: normal;
+  text-align: center;
+  color: #252525;
+}
+
+.hor-line {
+  position: absolute;
+  top: 2580px;
+  left: 660px;
+  width: 1px;
+  height: 140px;
+  border: solid 2px #959595;
+  background-color: #959595;
+}
+
+.mail {
+  position: absolute;
+  top: 2580px;
+  right: 390px;
+  width: 60px;
+  height: 97px;
+  object-fit: contain;
+}
+.email {
+  position: absolute;
+  top: 2620px;
+  right: 90px;
+  width: 260px;
+  height: 24px;
+  font-family: Hind;
+  font-size: 25px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.74;
+  letter-spacing: normal;
+  text-align: center;
+  color: #252525;
+}

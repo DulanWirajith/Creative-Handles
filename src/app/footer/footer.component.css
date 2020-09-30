@@ -1,0 +1,148 @@
+.footer-rectangle {
+  border: 2px solid black;
+  width: 1274px;
+  height: 410px;
+  background-color: #03051e;
+  bottom: 0px;
+  position: absolute;
+  top: 2880px;
+  
+  /* z-index: 2; */
+}
+
+.Logo-copy {
+  position: absolute;
+  left: 200px;
+  bottom: 303px;
+  width: 269px;
+  height: 40px;
+  object-fit: contain;
+  /* background-color: #ffffff; */
+}
+
+.content {
+  position: absolute;
+  left: 130px;
+  bottom: 165px;
+  width: 448px;
+  height: 111px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: italic;
+  line-height: 1.67;
+  letter-spacing: 0.75px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.NABDKA {
+  position: absolute;
+  left: 600px;
+  bottom: 330px;
+  width: 74px;
+  height: 20px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: 0.75px;
+  text-align: left;
+  color: #ffffff;
+}
+.DOM-O-NS-SLUBY-KONTAKT {
+  position: absolute;
+  left: 600px;
+  bottom: 230px;
+  width: 73px;
+  height: 90px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: 0.75px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.RYCHL-KONTAKT {
+  position: absolute;
+  left: 760px;
+  bottom: 330px;
+  width: 170px;
+  height: 20px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: 0.75px;
+  text-align: center;
+  color: #ffffff;
+}
+.KLIMAX-Teplice-sro-Teplick-45-417-23-Koany-u-Teplic-Tele {
+  position: absolute;
+  left: 760px;
+  bottom: 90px;
+  width: 218px;
+  height: 211px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: 0.75px;
+  text-align: left;
+  color: #ffffff;
+}
+.sociln-st {
+  text-transform: uppercase;
+  position: absolute;
+  left: 1000px;
+  bottom: 330px;
+  width: 125px;
+  height: 20px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: 0.75px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.facebook {
+  position: absolute;
+  left: 1050px;
+  bottom: 265px;
+  width: 51px;
+  height: 51px;
+  object-fit: contain;
+}
+
+.linkedin{
+  position: absolute;
+  left: 1050px;
+  bottom: 205px;
+  width: 51px;
+  height: 52px;
+  object-fit: contain;
+}
+
+.google-plus{
+  position: absolute;
+  left: 1050px;
+  bottom: 145px;
+  width: 51px;
+  height: 52px;
+  object-fit: contain;
+}
